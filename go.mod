@@ -1,4 +1,4 @@
-module hellootus
+module github.com/nyddle/hellootus
 
 go 1.12
 
